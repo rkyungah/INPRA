@@ -13,5 +13,5 @@
 `selenium` <br> <br>
 [Link]: [시각화 그래프 모음] >> [이동](./graph)
 <br>
-[Link]: [CODE] >> [보기](./code) <br>
+[Link]: [CODE] >> [보기](./INPRA/code) <br>
 
